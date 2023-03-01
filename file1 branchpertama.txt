@@ -1,1 +1,1 @@
-ini adalah file satu dari branch pertama
+ini adalah file pertama dari branch yang pertama
